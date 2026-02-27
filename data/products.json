@@ -5,7 +5,7 @@
       "name": "Leche Entera 1L",
       "category": "Dairy",
       "priceCents": 120,
-      "stock": 20,
+      "stock": 0,
       "imageUrl": "https://images.unsplash.com/photo-1580910051074-3eb694886505"
     },
     {
@@ -45,7 +45,7 @@
       "name": "Pasta Espagueti",
       "category": "Pantry",
       "priceCents": 95,
-      "stock": 50,
+      "stock": 0,
       "imageUrl": "https://images.unsplash.com/photo-1589307004391-0f9c3a1e1b89"
     },
     {
